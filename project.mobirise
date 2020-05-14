@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "MKT Digital NOw",
+    "name": "MKT Digital Now",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -52,7 +52,7 @@
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "gdpr": false,
-    "uniqCompNum": 6,
+    "uniqCompNum": 8,
     "versionPublish": "4.12.3"
   },
   "pages": {
